@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-revice-set-param/02-revice-set-param.iml" filepath="$PROJECT_DIR$/02-revice-set-param/02-revice-set-param.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-self-converter/03-self-converter.iml" filepath="$PROJECT_DIR$/03-self-converter/03-self-converter.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-anno/04-anno.iml" filepath="$PROJECT_DIR$/04-anno/04-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-different-controller-return-type/05-different-controller-return-type.iml" filepath="$PROJECT_DIR$/05-different-controller-return-type/05-different-controller-return-type.iml" />
     </modules>
   </component>
 </project>

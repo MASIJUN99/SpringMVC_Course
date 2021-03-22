@@ -1,17 +1,17 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="03-self-converter:war exploded">
-    <output-path>$PROJECT_DIR$/03-self-converter/target/untitled</output-path>
+  <artifact type="exploded-war" name="05-different-controller-return-type:war exploded">
+    <output-path>$PROJECT_DIR$/05-different-controller-return-type/target/05-different-controller-return-type</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
-        <module>03-self-converter</module>
+        <module>05-different-controller-return-type</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="03-self-converter" />
+          <element id="module-output" name="05-different-controller-return-type" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.4" />
@@ -25,9 +25,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/03-self-converter/target/untitled/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/05-different-controller-return-type/target/05-different-controller-return-type/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="03-self-converter/web/Web" />
+      <element id="javaee-facet-resources" facet="05-different-controller-return-type/web/Web" />
     </root>
   </artifact>
 </component>

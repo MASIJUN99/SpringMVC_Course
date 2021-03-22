@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="05-different-controller-return-type:war">
+    <output-path>$PROJECT_DIR$/05-different-controller-return-type/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>05-different-controller-return-type</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="05-different-controller-return-type.war">
+      <element id="artifact" artifact-name="05-different-controller-return-type:war exploded" />
+    </root>
+  </artifact>
+</component>
