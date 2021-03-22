@@ -4,6 +4,10 @@
     <file type="web" url="file://$PROJECT_DIR$/../01-recive-param" />
     <file type="web" url="file://$PROJECT_DIR$/../02-revice-set-param" />
     <file type="web" url="file://$PROJECT_DIR$/../04-anno" />
+    <file type="web" url="file://$PROJECT_DIR$/01-recive-param" />
+    <file type="web" url="file://$PROJECT_DIR$/02-revice-set-param" />
+    <file type="web" url="file://$PROJECT_DIR$/03-self-converter" />
+    <file type="web" url="file://$PROJECT_DIR$/04-anno" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC_day01_01_start" />
     <file type="web" url="file://$PROJECT_DIR$/../untitled/03-self-converter" />
   </component>
@@ -14,6 +18,10 @@
         <option value="$PROJECT_DIR$/../02-revice-set-param/pom.xml" />
         <option value="$PROJECT_DIR$/../untitled/03-self-converter/pom.xml" />
         <option value="$PROJECT_DIR$/../04-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/01-recive-param/pom.xml" />
+        <option value="$PROJECT_DIR$/02-revice-set-param/pom.xml" />
+        <option value="$PROJECT_DIR$/03-self-converter/pom.xml" />
+        <option value="$PROJECT_DIR$/04-anno/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
