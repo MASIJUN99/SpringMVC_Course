@@ -29,6 +29,7 @@ public class SampleController {
     @RequestMapping("/void2")
     public void void2(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         System.out.println("无返回2");
+
         response.sendRedirect(request.getContextPath() + "/void2Success.jsp");
     }
 

@@ -9,5 +9,9 @@
     <file url="file://$PROJECT_DIR$/03-self-converter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-anno/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-anno/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-different-controller-return-type/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-different-controller-return-type/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-file-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-file-upload/src/main/resources" charset="UTF-8" />
   </component>
 </project>
